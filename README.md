@@ -11,10 +11,10 @@ Algoritma Final Projesi
 
 --------------------------------------
 
-- Projenin amacı: 
+- Projenin amacı: Kendime özel bir çalma listesi yaptım
 
 
-- Projenin içeriği: 
+- Projenin içeriği: Projemde çalma listesinin oluşup oluşmadığının kontrolü için İf Else kullandım For Döngüsünü ise listeyi numaralandırmak için kullandım şarkı listesinin liste şeklinde gösterebilmek için Arraylist kullandım ve Nesne sınıflı taban açtım
 
 
 - Projede kullanılan teknolojiler: Java (İntelij)
